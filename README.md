@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi👋, I'm Ömer
+## A Full Stack Developer
 
 
 # 📊 GitHub Stats:
