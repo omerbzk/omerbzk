@@ -64,8 +64,8 @@ I'm a Full Stack Developer with 2 years of experience turning coffee into code. 
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=omerbzk&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=omerbzk&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+<!-- ![](https://github-readme-stats.vercel.app/api?username=omerbzk&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>-->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=omerbzk&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only) 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=omerbzk&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=omerbzk&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
