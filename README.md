@@ -1,4 +1,7 @@
-![abc](https://github.com/user-attachments/assets/83c45442-0d0d-4e23-b2d7-a59964c0d8a7)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/a3ebc2b4-7a20-48ac-83e4-03bda0bab8e1" alt="2" width="65%">
+</p>
+
 ## <h3 align="center">Hi👋, I'm Ömer</h3>
 ##  <h2 align="center">A Full Stack Developer</h2> 
 I'm a Full Stack Developer with 2 years of experience turning coffee into code. I work with C#, .NET, Java, Spring Boot and Vue.js to create web apps that (hopefully) don't crash. I’ve built fintech and ERP solutions that are fast, secure, and sometimes even do what they're supposed to! Ready to join a team where we can build cool stuff and maybe break the internet... but in a good way!
