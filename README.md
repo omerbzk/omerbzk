@@ -5,8 +5,8 @@
 ## <h3 align="center">Hi👋, I'm Ömer</h3>
 ##  <h2 align="center">A Full Stack Developer</h2> 
 I'm a Full Stack Developer with 2 years of experience turning coffee into code. I work with C#, .NET, Java, Spring Boot and Vue.js to create web apps that (hopefully) don't crash. I’ve built fintech and ERP solutions that are fast, secure, and sometimes even do what they're supposed to! Ready to join a team where we can build cool stuff and maybe break the internet... but in a good way!
-<!-- - 🔭 I’m currently working on ... -->
-<!-- - 🌱 I’m currently learning ... -->
+- 🔭 I’m currently working on developing advanced trading algorithms using real-time data for the crypto market, with a modular approach to apply various technical indicators and signals.
+- 🌱 I’m currently learning advanced concepts in the Java ecosystem, focusing on Spring Boot enhancements, modular programming, and efficient data processing. 
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
