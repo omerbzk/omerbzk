@@ -4,21 +4,32 @@
 
 ## <h3 align="center">Hi👋, I'm Ömer</h3>
 ##  <h2 align="center">A Full Stack Developer</h2> 
-I'm a Full Stack Developer with 2 years of experience turning coffee into code. I work with C#, .NET, Java, Spring Boot and Vue.js to create web apps that (hopefully) don't crash. I’ve built fintech and ERP solutions that are fast, secure, and sometimes even do what they're supposed to! Ready to join a team where we can build cool stuff and maybe break the internet... but in a good way!
-- 🔭 I’m currently working on developing advanced trading algorithms using real-time data for the crypto market, with a modular approach to apply various technical indicators and signals.
-- 🌱 I’m currently learning advanced concepts in the Java ecosystem, focusing on Spring Boot enhancements, modular programming, and efficient data processing. 
-<!-- - 👯 I’m looking to collaborate on ... -->
-<!-- - 🤔 I’m looking for help with ... -->
-<!-- - 💬 Ask me about ... -->
+Hi! I am a Full-Stack Developer with experience in Java, Spring Boot, C#, .NET Core and JavaScript, building scalable and high-performance applications for fintech, ERP, and enterprise systems. I specialize in developing secure, efficient, and maintainable software solutions that streamline business operations.
 
-- 📫 How to reach me: bozkurtomer150@gmail.com
-- 💬 If you have any question/feedback, please do not hesitate to reach out to me!
+🔹 Backend Expertise
+
+Developed payment systems (Virtual POS, Digital Wallet, Payment Gateway) and ERP solutions using .NET Core and Java.
+
+Designed and optimized RESTful APIs with ASP.NET & Java, applying SOLID principles, Clean Architecture, and CQRS.
+
+Integrated RabbitMQ for event-driven architecture and Elasticsearch & Redis for high-performance data querying and caching.
+
+🔹 Frontend & DevOps Skills
+
+Built dynamic UIs using React.js and Vue.js, improving user experience and system performance.
+
+Implemented Redux for state management, reducing unnecessary API calls and optimizing server load.
+
+Utilized Docker, Kubernetes, and GitHub Actions for containerization and CI/CD automation.
+
+🔹 Flexible & Solution-Oriented
+I work project-based, long-term, or hourly, adapting to business needs with a problem-solving mindset. Whether you need a secure fintech application, an efficient ERP system, or a scalable web platform, I can help bring your vision to life.
+
+🚀 Let’s connect and build something great!
 <!-- - 😄 Pronouns: ...-->
  <!-- - ⚡ Fun fact: ...-->
 ## 🤝 Connect with me:
 <a href="https://www.linkedin.com/in/ömerbozkurt/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Ömer Bozkurt | LinkedIn" width="21px"/></a>
-<a href="mailto:bozkurtomer150@gmail.com">
-  <img src="https://github.com/user-attachments/assets/0684d566-ef92-40dc-ac44-a98ce6979761" alt="Email Me" style="width: 21px; border: none;"/>
 </a>
 
 
