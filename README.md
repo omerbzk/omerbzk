@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/bd170645-2edd-4ac0-8f29-dcd41590a79b" alt="banner" width="100%">
+  <img width="3392" height="1248" alt="banner" src="https://github.com/user-attachments/assets/5cea6c6c-da85-4b13-9bfc-ae87e71a717c" />
 </p>
 
 ---
@@ -16,7 +16,7 @@
 ## 🚀 Professional Summary
 Software Developer with a background in Mechatronics Engineering, focused on **full-stack development** across fintech, ERP, and freelance projects.
 Experienced in **Java, Spring Boot, C#, .NET Core, React, and Vue.js**, building **scalable, maintainable, and secure systems**.
-Currently expanding into **AI, machine learning, computer vision, and autonomous systems**, building on a mechatronics foundation in kinematics and control.
+Currently expanding into **AI, machine learning, computer vision, and autonomous systems**, building on a mechatronics foundation.
 
 - 🌍 Based in **Türkiye**
 - 🏗️ Scalable & Cloud-Native System Design
