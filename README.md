@@ -26,7 +26,7 @@
 Software Engineer with a Mechatronics Engineering background and hands-on full-stack experience across fintech, enterprise ERP and freelance projects. I focus on building maintainable, reliable and scalable backend systems, and I'm now combining that foundation with AI, Computer Vision and Robotics to build intelligent systems.
 
 ```yaml
-role:              Software Developer | Mechatronics Engineer
+role:              Software Developer
 backend:           Java / Spring Boot · C# / .NET Core
 frontend:          React · Next.js · Vue.js · TypeScript
 data:              PostgreSQL · MSSQL · Redis · Elasticsearch · Kafka · RabbitMQ
