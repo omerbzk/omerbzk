@@ -1,33 +1,64 @@
-
 <p align="center">
 <img width="100%" alt="banner" src="https://github.com/user-attachments/assets/2b9ca4a1-38a9-4db5-9924-9bbd9dd3f6c6" />
 </p>
 
-
-
 ---
+
+<div align="center">
 
 # 👋 Hi, I'm Ömer Bozkurt
 ### Software Developer | Mechatronics Engineer
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Backend+%26+Full-Stack+Developer;Fintech+%26+ERP+Systems;Distributed+Systems+%26+Cloud-Native+Design;Exploring+AI%2C+Robotics+%26+Autonomous+Systems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Backend+%26+Full-Stack+Developer;Fintech+%26+ERP+Systems;Distributed+Systems+%26+Cloud-Native+Design;Exploring+AI%2C+Robotics+%26+Autonomous+Systems" alt="Typing SVG" />
+
+<br/>
+
+![Location](https://img.shields.io/badge/📍_Türkiye-1f6feb?style=for-the-badge)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-bozkurtomer-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bozkurtomer)
+
 </div>
 
 ---
 
-## 🚀 Professional Summary
-Software Developer with a background in Mechatronics Engineering, focused on **full-stack development** across fintech, ERP, and freelance projects.
-Experienced in **Java, Spring Boot, C#, .NET Core, React, and Vue.js**, building **scalable, maintainable, and secure systems**.
-Currently expanding into **AI, machine learning, computer vision, and autonomous systems**, building on a mechatronics foundation.
+## 🚀 Summary
 
-- 🌍 Based in **Türkiye**
-- 🏗️ Scalable & Cloud-Native System Design
-- ⚡ Distributed Systems, Microservices & Event-Driven Architecture
-- 🧪 Clean Code, Testing & Software Engineering Best Practices
-- 🔐 API Design, Security & Observability
-- ☁️ Docker, Kubernetes, CI/CD & DevOps Practices
-- 🤖 AI Agents, RAG, Computer Vision & Machine Learning
+Software Engineer with a Mechatronics Engineering background and hands-on full-stack experience across fintech, enterprise ERP and freelance projects. I focus on building maintainable, reliable and scalable backend systems, and I'm now combining that foundation with AI, Computer Vision and Robotics to build intelligent systems.
+
+```yaml
+role:              Software Developer | Mechatronics Engineer
+backend:           Java / Spring Boot · C# / .NET Core
+frontend:          React · Next.js · Vue.js · TypeScript
+data:              PostgreSQL · MSSQL · Redis · Elasticsearch · Kafka · RabbitMQ
+platform:          Docker · Kubernetes · CI/CD · AWS · Prometheus · Grafana
+ai:                LLMs · RAG · AI Agents · LangChain · LangGraph · OpenCV · YOLO
+practices:         SOLID · Clean Code · Design Patterns · Testing · Agile/Scrum
+spoken_languages:  Turkish (Native) · English (Advanced)
+```
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🔭 What I'm working on
+- 🏗️ Distributed systems, system design & scalable architectures
+- ⚡ Event-driven communication, messaging & caching
+- 🔐 API design, security & observability
+- 🤖 LLM-powered apps & AI agent workflows
+- 🌐 Full-stack products with Next.js & Supabase
+
+</td>
+<td width="50%" valign="top">
+
+### 🌱 What I'm learning
+- 🧠 AI / ML, RAG & Vector Databases
+- 🤖 AI Agents & Multi-Agent Systems
+- 👁️ Computer Vision
+- 🦾 Robotics & Autonomous Systems
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -47,6 +78,7 @@ Currently expanding into **AI, machine learning, computer vision, and autonomous
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Vue](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 
@@ -87,15 +119,21 @@ Currently expanding into **AI, machine learning, computer vision, and autonomous
 
 ---
 
-## 🔗 Connect with Me
-<div align="center">
-<a href="https://linkedin.com/in/bozkurtomer" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
-</a>
-</div>
+## 🎓 Education
+
+**B.Sc. Mechatronics Engineering** · Kocaeli University, Faculty of Engineering (2017 – 2022)
+
 
 ---
 
-<p align="center">
-  <i>"Simplicity is the soul of efficiency."</i>
-</p>
+<div align="center">
+
+### 🤝 Let's connect
+
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bozkurtomer)
+
+<i>"Simplicity is the soul of efficiency."</i>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=90&section=footer" width="100%" alt="footer" />
+
+</div>
