@@ -28,7 +28,7 @@ Currently expanding into **AI, machine learning, computer vision, and autonomous
 - 🔐 API Design, Security & Observability
 - ☁️ Docker, Kubernetes, CI/CD & DevOps Practices
 - 🤖 AI Agents, RAG, Computer Vision & Machine Learning
-- 
+
 ---
 
 ## 🛠️ Tech Stack
